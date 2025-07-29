@@ -1,8 +1,5 @@
-gradio
-flask
-flask-cors
+streamlit
 scikit-learn
 joblib
 newspaper3k
-numpy
-pandas
+lxml_html_clean
